@@ -1,4 +1,3 @@
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=dracula&section=header&text=Hi%20there,%20I'm%20dyyeon!👋&fontSize=50" alt="Header" />
 
 ## About Me
@@ -8,7 +7,6 @@
     💬 궁금한 점이 있으시다면 언제든 편하게 질문해 주세요!<br/>
     📫 Contact: <b>dohy3141@naver.com</b>
   </p>
-</div>
   
 ---
 
