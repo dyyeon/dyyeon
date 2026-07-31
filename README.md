@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=200&section=header&text=안녕하세요,%20I'm%20dyyeon!👋&fontSize=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=안녕하세요,%20I'm%20dyyeon!👋&fontSize=50" alt="Header" />
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=dyyeon&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
   </p>
