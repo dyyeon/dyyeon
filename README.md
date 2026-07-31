@@ -1,4 +1,14 @@
-# 안녕하세요 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=200&section=header&text=Hi%20there%20👋&fontSize=50" alt="Header" />
+  <br/>
+  <h1>Hi there 👋, I'm dyyeon!</h1>
+  <p>
+    🔭 현재 NLP 부트캠프에서 <b>헤지펀드용 실시간 멀티 에이전트</b>를 개발하고 있습니다.<br/>
+    💬 궁금한 점이 있으시다면 언제든 편하게 질문해 주세요!<br/>
+    📫 Contact: <b>dohy3141@naver.com</b>
+  </p>
+</div>
+
 ## Contribution Graph
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dyyeon&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
