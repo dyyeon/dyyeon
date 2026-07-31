@@ -12,13 +12,6 @@
 
 ---
 
-<!-- 3D Contribution Graph -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%">
-</p>
-
----
-
 ### Skills
 <details>
 **Languages**
@@ -72,3 +65,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 </details>
+
+---
+
+### Contribution Graph
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%">
+</p>
+
