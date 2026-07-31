@@ -1,4 +1,8 @@
 ## Contribution Graph
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dyyeon&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
+</p>
+
 <!-- 3D Contribution Graph -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%">
@@ -49,23 +53,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-## Personal stats:
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dyyeon&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyyeon&theme=dracula" alt="Most Used Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dyyeon&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
-</p>
-
 <p align="center">
   <a href="https://github.com/dyyeon?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+---
