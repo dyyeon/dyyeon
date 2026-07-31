@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4169E1&center=true&vCenter=true&width=620&lines=AI+agents alt="Typing SVG">
-</p>
-
-<p align="center">
   <a href="https://github.com/dyyeon?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
@@ -22,9 +18,9 @@
 </p>
 
 ---
-<details>
-### Skills
 
+### Skills
+<details>
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
