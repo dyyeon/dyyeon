@@ -2,15 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=200&section=header&text=안녕하세요,%20I'm%20dyyeon!👋&fontSize=50" alt="Header" />
   <br/>
 </div>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dyyeon&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
-</p>
   <p>
     🔭 현재 NLP 부트캠프에서 <b>헤지펀드용 실시간 멀티 에이전트</b>를 개발하고 있습니다.<br/>
     💬 궁금한 점이 있으시다면 언제든 편하게 질문해 주세요!<br/>
     📫 Contact: <b>dohy3141@naver.com</b>
   </p>
-
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=dyyeon&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
+  </p>
 ---
 
 ## Tech Stacks / Skills
@@ -67,5 +66,4 @@
 <p align="center">
   <a href="https://github.com/dyyeon?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
 ---
