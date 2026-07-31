@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=200&section=header&text=안녕하세요👋,%20I'm%20dyyeon!&fontSize=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=200&section=header&text=안녕하세요,%20I'm%20dyyeon!👋&fontSize=50" alt="Header" />
   <br/>
   <p>
     🔭 현재 NLP 부트캠프에서 <b>헤지펀드용 실시간 멀티 에이전트</b>를 개발하고 있습니다.<br/>
