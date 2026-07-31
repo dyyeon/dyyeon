@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=dracula&section=header&text=Hi%20there,%20I'm%20dyyeon!👋&fontSize=50" alt="Header" />
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=dyyeon&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
-  </p>
+
+## About Me
   
   <p>
     🔭 현재 NLP 부트캠프에서 <b>헤지펀드용 멀티 에이전트</b>를 개발하고 있습니다.<br/>
@@ -58,6 +57,11 @@
 
 ---
 
+## Competition
+500512 NLP InClass Competition — 🥈 [2nd / 68](https://www.kaggle.com/competitions/500512-NLP-InClassCompetition/leaderboard) - Public 1st
+
+---
+
 ## Contribution Graph
 <!-- 3D Contribution Graph -->
 <p align="center">
@@ -66,4 +70,8 @@
 
 <p align="center">
   <a href="https://github.com/dyyeon?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=dyyeon&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
 </p>
