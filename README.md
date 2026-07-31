@@ -57,10 +57,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+
 ---
 
 ## Competition
 500512 NLP InClass Competition — 🥈 [2nd / 68](https://www.kaggle.com/competitions/500512-NLP-InClassCompetition/leaderboard) - Public 1st
+
 
 ---
 
@@ -69,7 +71,6 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%">
 </p>
-
 <p align="center">
   <a href="https://github.com/dyyeon?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
