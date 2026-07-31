@@ -1,28 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1128,100:4169E1&height=200&section=header&text=dyyeon&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Game%20%26%20AI%20Developer&descAlignY=55&descSize=18" width="100%">
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4169E1&center=true&vCenter=true&width=620&lines=Metaverse+%26+Game+Studies+student;AI+agents%2C+RAG+pipelines%2C+and+games;Unity+%2F+Unreal+%2F+LangGraph+%2F+FastAPI" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4169E1&center=true&vCenter=true&width=620&lines=AI+agents alt="Typing SVG">
 </p>
 
 <p align="center">
   <a href="https://github.com/dyyeon?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=dyyeon&style=for-the-badge&color=4169E1&label=PROFILE+VIEWS">
 </p>
 
 ---
 
 ## Personal stats:
-
-<details>
-<summary><b>Highlights / Proficiencies</b></summary>
-
-<br>
-
-* **Language:** C#, C++, Python, Java, Kotlin, JavaScript / TypeScript
-* **AI / NLP:** RAG, Knowledge Graph, Multi-Agent, Information Extraction
-* **Focus:** Gameplay Logic, Cinematic Cutscenes, Optimization
-
-</details>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dyyeon&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
@@ -36,7 +22,7 @@
 </p>
 
 ---
-
+<details>
 ### Skills
 
 **Languages**
@@ -89,3 +75,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</details>
