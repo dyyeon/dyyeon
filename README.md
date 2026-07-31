@@ -4,10 +4,10 @@
 
 ---
 
-## Personal stats:
-
+### Contribution Graph
+<!-- 3D Contribution Graph -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dyyeon&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%">
 </p>
 
 ---
@@ -65,9 +65,8 @@
 
 ---
 
-### Contribution Graph
-<!-- 3D Contribution Graph -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%">
-</p>
+## Personal stats:
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dyyeon&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="GitHub Streak">
+</p>
