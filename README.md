@@ -61,7 +61,7 @@
 ---
 
 ## Competition
-500512 NLP InClass Competition — 🥈 [2nd / 68](https://www.kaggle.com/competitions/500512-NLP-InClassCompetition/leaderboard) - Public 1st
+500512 NLP InClass Competition (Jul 9, 2026) — 🥈 [2nd / 68](https://www.kaggle.com/competitions/500512-NLP-InClassCompetition/leaderboard) - Public 1st
 
 
 ---
