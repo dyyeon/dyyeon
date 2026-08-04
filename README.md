@@ -1,4 +1,4 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=dracula&section=header&text=Hi%20there,%20I'm%20dyyeon!👋&fontSize=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=dracula&section=header&text=An%20AI%20engineer%20focused%20on%20turning%20complex%20data%20into%20real-world%20business%20impact&fontSize=50" alt="Header" />
 
 ## About Me
 <div align="center">  
