@@ -3,7 +3,7 @@
 ## About Me
 <div align="center">  
   <p>
-    🔭 현재 NLP 부트캠프에서 <b>헤지펀드용 멀티 에이전트</b>를 개발하고 있습니다.<br/>
+    🔭 현재 AI NLP 부트캠프에서 <b>헤지펀드용 멀티 에이전트</b>를 개발하고 있습니다.<br/>
     💬 궁금한 점이 있으시다면 언제든 편하게 질문해 주세요!<br/>
     📫 Contact: <b>dohy3141@naver.com</b>
   </p>
