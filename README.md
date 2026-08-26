@@ -1,5 +1,3 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=dracula&section=header&text=Hi%20👋,%20I'm%20dyyeon&fontSize=50" alt="Header" />
-
 ## About Me
 <div align="center">  
   <p>
