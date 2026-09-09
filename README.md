@@ -68,7 +68,7 @@
 ---
 
 ## Competition
-AINLP05 Capstone Project (Sep 2, 2026) — 🥇 [1st / 9](Hedge Fund Multi-Agent)<br>
+AINLP05 Capstone Project (Sep 2, 2026) — 🥇 1st / 9 - Hedge Fund Multi-Agent<br>
 500512 NLP InClass Competition (Jul 9, 2026) — 🥈 [2nd / 68](https://www.kaggle.com/competitions/500512-NLP-InClassCompetition/leaderboard) - Public 1st
 
 
